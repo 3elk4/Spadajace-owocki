@@ -1,1 +1,2 @@
-# spadaj-ce-owocgi
+# Spadajae owocki
+Game for Arduino - OLED screen.
